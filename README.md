@@ -1,2 +1,3 @@
 - I’m @yeetmyneet
-- learning how to make games rn
+- learning how to make games
+- hosting school and personal projects
